@@ -1,3 +1,3 @@
 # CIT-28-Capstone-Project
-PSCS_543 - Nutrition Application For Athletes
+PSCS_543 - Nutrition Application For Athletes - 
 NutriGuide is an AI-powered nutrition and diet planning platform that addresses nutritional imbalances and deficiencies by providing personalized meal recommendations and synchronizing them with individual training routines. It leverages AI to generate diet plans tailored to a person’s lifestyle, sport, and physique, ensuring that nutrition aligns with fitness goals. The platform also empowers users with awareness campaigns on sustainable food habits while promoting long-term health outcomes. The project aligns with UN Sustainable Development Goals (SDG-2: Zero Hunger and SDG-3: Good Health & Well-being) by encouraging healthier lifestyles, reducing the risks of diet-related illnesses, and supporting global health initiatives.
