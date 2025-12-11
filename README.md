@@ -1,4 +1,4 @@
-# NutriGuide - AI-Powered Nutrition & Fitness Planner
+# NUTRIGUIDE: AI – POWERED NUTRITION PLANNING PLATFORM FOR ATHLETES IN DEVELOPING REGIONS 
 ### CIT-28 Capstone Project | PSCS_543 - Nutrition Application For Athletes
 
 A comprehensive React.js application that provides personalized nutrition and fitness planning using artificial intelligence, designed to support UN Sustainable Development Goals 2 (Zero Hunger) and 3 (Good Health and Well-being).
